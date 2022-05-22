@@ -22,6 +22,6 @@
   
  </ul>
 <br>
- <li> <b> Objetivo: </b> Crear un programa en C que usando la libreia string ejemplificar las funciones. </li>
+ <li> <b> Objetivo: </b> Crear un programa en C que usando la libreia string ejemplificar algunas de las funciones. </li>
  <br>
  <li><b> Breve descripción: </b>Programa en C que conforma la tarea 5, ejemplifica el uso de la libreria string para la materia programacion estructurada. </li>
