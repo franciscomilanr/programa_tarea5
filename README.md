@@ -7,13 +7,18 @@
  <br>
  <li><b> En este programa se muestra el uso de: </b></li>
  <ul>
-	 <li> Entrada de datos con scanf</li>
-	 <li> Salida de datos con printf </li>
-	<li>Librerias </li>
- 	<li>Funcion main </li>
+<li> Entrada de datos con scanf</li>
+<li> Salida de datos con printf </li>
+<li>Librerias </li>
+ <li>Funcion main </li>
   <li>Protipos de funcion </li>
-  <li>Variables entero </li>
-  <li>Variables cadena </li>
+	<li>Funciones de la libreria string </li>
+	 <li>Variables entero </li>
+	<li>Variables cadena </li>
+	<li>Uso de if </li>
+	<li>Uso de menu </li>
+	<li>Uso if else </li>
+	
   
  </ul>
 <br>
