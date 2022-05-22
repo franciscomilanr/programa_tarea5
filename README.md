@@ -15,6 +15,7 @@
 	<li>Funciones de la libreria string </li>
 	 <li>Variables entero </li>
 	<li>Variables cadena </li>
+	<li>Variables locales </li>
 	<li>Uso de if </li>
 	<li>Uso de menu </li>
 	<li>Uso if else </li>
